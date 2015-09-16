@@ -1,20 +1,19 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:22:24.953052
+#+DATE: 2015-08-30 20:22:26.388574
 #+TITLE: 說妙法決定業障經
 #+PROPERTY: CBETA_ID T17n0841
 #+PROPERTY: ID KR6i0547
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 17, No. 841
 #+PROPERTY: VOL 17
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6i0547_T_000-0912a>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6i0547_T_001-0912a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.841[No.840]¶
-
- 《說妙法決定業障經》¶
+No. 841 [No. 840]¶
+《說妙法決定業障經》¶
 ¶
 大唐至相寺沙門釋智嚴譯¶
 
@@ -113,8 +112,7 @@ No.841[No.840]¶
 之心；無量百千聲聞皆發阿耨多羅三藐三¶
 菩提心。復有初戒菩薩未悟法者，皆已悟解。¶
 
-爾時阿難白佛言：「世尊！此法何名？如何奉¶
-持？」
+爾時阿難白佛言：「世尊！此法何名？如何奉持？」
 
 佛言：「是經名為『大乘巨拏勝斯』，受持；又名¶
 『說妙法決定業障』，受持」。
