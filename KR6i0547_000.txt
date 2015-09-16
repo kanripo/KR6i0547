@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 說妙法決定業障經
+#+DATE: 2015-08-30 20:22:25.213785
+#+PROPERTY: JUAN 0
